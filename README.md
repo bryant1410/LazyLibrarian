@@ -26,7 +26,7 @@ There may be many non working options/links during this Work In Progress-stage.
 
 If you know css very well, feel free to change the look by adding pull-requests, I am aware of the fact that it is one ugly monstrous webapp right now  
 
-##Screenshot
+## Screenshot
 <img src="http://tweakers.net/ext/f/nRWbGC8qWH2y2BqYNVHUJuIn/full.png" width="800">
 <img src="http://tweakers.net/ext/f/4gmyYa6Wf8zcd0WpbanIGFwl/full.png" width="800">
 
